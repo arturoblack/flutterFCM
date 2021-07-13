@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405065638747",
+    "project_id": "pushnotification-8a268",
+    "storage_bucket": "pushnotification-8a268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405065638747:android:9a016aa198d582bc54707e",
+        "android_client_info": {
+          "package_name": "com.conti.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405065638747-hbuksm9q5j1hc36baktkt8k94boc0dda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkQkEu3DGXVdjIgvh7auJ4kfK5_VjVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405065638747-hbuksm9q5j1hc36baktkt8k94boc0dda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
